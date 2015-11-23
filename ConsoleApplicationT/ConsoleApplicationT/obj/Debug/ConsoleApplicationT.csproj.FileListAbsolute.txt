@@ -1,0 +1,8 @@
+F:\study\GitHub\GitTest\ConsoleApplicationT\ConsoleApplicationT\bin\Debug\ConsoleApplicationT.exe.config
+F:\study\GitHub\GitTest\ConsoleApplicationT\ConsoleApplicationT\bin\Debug\ConsoleApplicationT.exe
+F:\study\GitHub\GitTest\ConsoleApplicationT\ConsoleApplicationT\bin\Debug\ConsoleApplicationT.pdb
+F:\study\GitHub\GitTest\ConsoleApplicationT\ConsoleApplicationT\bin\Debug\TestClass.dll
+F:\study\GitHub\GitTest\ConsoleApplicationT\ConsoleApplicationT\bin\Debug\TestClass.pdb
+F:\study\GitHub\GitTest\ConsoleApplicationT\ConsoleApplicationT\obj\Debug\ConsoleApplicationT.csprojResolveAssemblyReference.cache
+F:\study\GitHub\GitTest\ConsoleApplicationT\ConsoleApplicationT\obj\Debug\ConsoleApplicationT.exe
+F:\study\GitHub\GitTest\ConsoleApplicationT\ConsoleApplicationT\obj\Debug\ConsoleApplicationT.pdb

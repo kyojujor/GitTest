@@ -1,0 +1,5 @@
+F:\study\GitHub\GitTest\ConsoleApplicationT\TestClass\bin\Debug\TestClass.dll
+F:\study\GitHub\GitTest\ConsoleApplicationT\TestClass\bin\Debug\TestClass.pdb
+F:\study\GitHub\GitTest\ConsoleApplicationT\TestClass\obj\Debug\TestClass.csprojResolveAssemblyReference.cache
+F:\study\GitHub\GitTest\ConsoleApplicationT\TestClass\obj\Debug\TestClass.dll
+F:\study\GitHub\GitTest\ConsoleApplicationT\TestClass\obj\Debug\TestClass.pdb
